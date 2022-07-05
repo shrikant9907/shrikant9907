@@ -1,7 +1,7 @@
 
 
  
- ### Hi there 👋
+ # Hi there 👋
  ## I'm Shrikant
  <p>A Full Stack Web Developer from India.</p>
  
@@ -15,18 +15,21 @@
 
 <div style="display: inline_block"><br>
   <h2>My Skills</h2>
-  <img align="center" alt="Leo-HTML" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-HTML" height="40" width="50"
+  <img align="center" alt="React" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-CSS" height="40" width="50"
+  <img align="center" alt="JavaScript" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/javascript-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/bootstrap-plain.svg">
+  <img align="center" alt="HTML 5" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS 3" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-AngularJS" height="40" width="50"
+  <img align="center" alt="Sass/Scss" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Git" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
 
 
 <h2>Connect with me on social networks!</h2>
