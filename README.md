@@ -70,7 +70,7 @@ I’m a Full Stack Web Developer from India with over 10 years of experience in 
 
 ## Learn Online
 
-- **YouTube**: Learn React and Next Online.
+- **YouTube**: [React To Next - Youtube](https://youtube.com/@reacttonext)
 - **Blog**: [reacttonext.com](http://reacttonext.com)
 - **Social Media**: 
   - Facebook: [ReactToNext](http://facebook.com/ReactToNext)
