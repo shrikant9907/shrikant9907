@@ -1,10 +1,36 @@
+# Hi there 👋
 
+## I'm Shrikant Yadav
 
- 
- # Hi there 👋
- ## My name is Shrikant Yadav.
- <p>I'm a Full Stack Web Developer from India. I have more than 10 years of experience in working with Web Development. I provide services in Frontend Development, Mern Stack, Training, Consultation and Mentoring in Web Development.</p>
- 
+I’m a Full Stack Web Developer from India with over 10 years of experience in web development. I offer a range of professional services, including:
+
+- **Frontend Development**: Crafting responsive and user-friendly interfaces.
+- **MERN Stack Development**: Building dynamic and scalable applications using MongoDB, Express.js, React, and Node.js.
+- **Training**: Offering specialized training in the following areas:
+  - **Web Designing**
+  - **Frontend Development (React-Based)**: 
+    - HTML, CSS, JavaScript, Bootstrap, React JS, Axios, React Router Dom, Redux, Redux Toolkit
+    - Tailwind, React JS, Axios, React Router Dom, Redux, Redux Toolkit
+  - **MERN Stack**: 
+    - Frontend + Node JS
+  - **Next JS**: HTML, CSS, JavaScript, React JS, Tailwind CSS, Redux, Redux Toolkit, Axios, MongoDB, Express JS, Node JS
+- **Consultation**: Providing expert advice on web development projects and strategies.
+- **Mentoring**: Guiding and supporting individuals in their web development careers.
+
+## Resources
+
+- **React to Next**: Learn React and Next through various online resources.
+- **W3schools**: Comprehensive tutorials and references on web development.
+- **MDN Web Docs**: Extensive documentation and resources on web technologies.
+
+## Training Courses Offering Online
+
+- **Frontend Developer 1**: HTML, CSS, JavaScript, Bootstrap, React JS, Axios, React Router Dom, Redux, Redux Toolkit
+- **Frontend Developer 2**: HTML, CSS, JavaScript, Tailwind, React JS, Axios, React Router Dom, Redux, Redux Toolkit
+- **Node JS 1**: Node JS, Express JS, MongoDB
+- **Node JS 2**: Node JS, Express JS, MySQL
+- **MERN Stack**: Frontend + Node JS
+- **Next JS**: HTML, CSS, JavaScript, React JS, Tailwind CSS, Redux, Redux Toolkit, Axios, MongoDB, Express JS, Node JS
  
 <div style="display: inline_block"><br>
   <h2>I work in:</h2>
@@ -34,12 +60,18 @@
 
 <h2>Connect with me on social networks!</h2>
 <div>
-
   <a target="_blank" href="https://www.linkedin.com/in/shrikantdev/"><img
   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a />
   <a target="_blank" href="https://www.instagram.com/shrikant99070/"><img
   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><a />
   <a target="_blank" href="mailto:shrikant9907@gmail.com"><img
   src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a />
- 
 </div>
+
+## Learn Online
+
+- **YouTube**: Learn React and Next Online.
+- **Blog**: [reacttonext.com](http://reacttonext.com)
+- **Social Media**: 
+  - Facebook: [ReactToNext](http://facebook.com/ReactToNext)
+  - Instagram: [ReactToNext](http://instagram.com/ReactToNext)
