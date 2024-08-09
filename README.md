@@ -17,13 +17,7 @@ I’m a Full Stack Web Developer from India with over 10 years of experience in 
 - **Consultation**: Providing expert advice on web development projects and strategies.
 - **Mentoring**: Guiding and supporting individuals in their web development careers.
 
-## Resources
-
-- **React to Next**: Learn React and Next through various online resources.
-- **W3schools**: Comprehensive tutorials and references on web development.
-- **MDN Web Docs**: Extensive documentation and resources on web technologies.
-
-## Training Courses Offering Online
+## Training Courses Offering Online (DM me for Online Training on Linkedin)
 
 - **Frontend Developer 1**: HTML, CSS, JavaScript, Bootstrap, React JS, Axios, React Router Dom, Redux, Redux Toolkit
 - **Frontend Developer 2**: HTML, CSS, JavaScript, Tailwind, React JS, Axios, React Router Dom, Redux, Redux Toolkit
