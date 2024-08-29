@@ -1,71 +1,102 @@
-# Hi there 👋
+# 👋 Welcome to My Profile
 
 ## I'm Shrikant Yadav
 
-I’m a Full Stack Web Developer from India with over 10 years of experience in web development. I offer a range of professional services, including:
+### Empowering the Next Generation of Web Developers
 
-- **Frontend Development**: Crafting responsive and user-friendly interfaces.
-- **MERN Stack Development**: Building dynamic and scalable applications using MongoDB, Express.js, React, and Node.js.
-- **Training**: Offering specialized training in the following areas:
-  - **Web Designing**
-  - **Frontend Development (React-Based)**: 
-    - HTML, CSS, JavaScript, Bootstrap, React JS, Axios, React Router Dom, Redux, Redux Toolkit
-    - Tailwind, React JS, Axios, React Router Dom, Redux, Redux Toolkit
-  - **MERN Stack**: 
-    - Frontend + Node JS
-  - **Next JS**: HTML, CSS, JavaScript, React JS, Tailwind CSS, Redux, Redux Toolkit, Axios, MongoDB, Express JS, Node JS
-- **Consultation**: Providing expert advice on web development projects and strategies.
-- **Mentoring**: Guiding and supporting individuals in their web development careers.
+With over a decade of experience in web development, I specialize in crafting dynamic, responsive, and scalable web applications. Whether you're looking to learn, collaborate, or seek guidance, I'm here to support your journey in the ever-evolving world of web development.
 
-## Training Courses Offering Online (DM me for Online Training on Linkedin)
+---
 
-- **Frontend Developer 1**: HTML, CSS, JavaScript, Bootstrap, React JS, Axios, React Router Dom, Redux, Redux Toolkit
-- **Frontend Developer 2**: HTML, CSS, JavaScript, Tailwind, React JS, Axios, React Router Dom, Redux, Redux Toolkit
-- **Node JS 1**: Node JS, Express JS, MongoDB
-- **Node JS 2**: Node JS, Express JS, MySQL
-- **MERN Stack**: Frontend + Node JS
-- **Next JS**: HTML, CSS, JavaScript, React JS, Tailwind CSS, Redux, Redux Toolkit, Axios, MongoDB, Express JS, Node JS
- 
+## 🔥 My Expertise
+
+- **Full Stack Web Development**: Comprehensive solutions from frontend to backend using cutting-edge technologies.
+  
+- **Frontend Development**: 
+  - **Responsive Design**: Crafting visually appealing and user-friendly interfaces.
+  - **Advanced Frontend Technologies**: Proficiency in HTML, CSS, JavaScript, React JS, and Tailwind CSS.
+
+- **MERN Stack Development**: 
+  - **Scalable Applications**: Building dynamic applications with MongoDB, Express.js, React, and Node.js.
+  
+- **Next JS Development**: 
+  - **Modern Web Apps**: Creating high-performance applications using Next JS, React JS, Tailwind CSS, and more.
+
+- **Consultation & Mentorship**: 
+  - **Guidance**: Offering expert advice and mentorship to help you excel in your web development career.
+
+---
+
+## 🎓 Training & Courses
+
+### Online Training Programs
+
+I offer specialized training programs designed to equip you with industry-relevant skills:
+
+1. **Frontend Developer 1**: 
+   - **Technologies**: HTML, CSS, JavaScript, Bootstrap, React JS, Axios, React Router Dom, Redux, Redux Toolkit.
+2. **Frontend Developer 2**: 
+   - **Technologies**: HTML, CSS, JavaScript, Tailwind CSS, React JS, Axios, React Router Dom, Redux, Redux Toolkit.
+3. **Node JS 1**: 
+   - **Technologies**: Node JS, Express JS, MongoDB.
+4. **Node JS 2**: 
+   - **Technologies**: Node JS, Express JS, MySQL.
+5. **MERN Stack Developer**: 
+   - **Technologies**: Full-stack development using MongoDB, Express JS, React JS, and Node JS.
+6. **Next JS Developer**: 
+   - **Technologies**: HTML, CSS, JavaScript, React JS, Tailwind CSS, Redux, Redux Toolkit, Axios, MongoDB, Express JS, Node JS.
+
+### 📝 Internship & Project Development
+
+Looking for hands-on experience? Join my internship program or collaborate on real-world projects to hone your skills and build your portfolio.
+
+---
+
+## 💼 Skills Showcase
+
 <div style="display: inline_block"><br>
-  <h2>I work in:</h2>
-  <img align="center" alt="Next JS" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="React" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind CSS" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Typescript" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nodejs" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">\
-  <img align="center" alt="Mongodb" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="HTML 5" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS 3" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass/Scss" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Git" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <h3>My Toolkit:</h3>
+  <img align="center" alt="Next JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="HTML 5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS 3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sass/Scss" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<h2>Connect with me on social networks!</h2>
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/shrikantdev/"><img
-  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a />
-  <a target="_blank" href="https://www.instagram.com/shrikant99070/"><img
-  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><a />
-  <a target="_blank" href="mailto:shrikant9907@gmail.com"><img
-  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a />
-</div>
+---
 
-## Learn Online
+## 📊 GitHub Stats & Most Used Languages
 
-- **YouTube**: [React To Next - Youtube](https://youtube.com/@reacttonext)
-- **Blog**: [reacttonext.com](http://reacttonext.com)
-- **Social Media**: 
-  - Facebook: [ReactToNext](http://facebook.com/ReactToNext)
-  - Instagram: [ReactToNext](http://instagram.com/ReactToNext)
+![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrikant9907&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikant9907&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+Stay connected and updated with my latest projects and offerings. 
+
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/shrikantdev/)
+- **Instagram**: [Follow on Instagram](https://www.instagram.com/shrikant99070/)
+- **Email**: [Email Me](mailto:shrikant9907@gmail.com)
+
+---
+
+## 📚 Learn & Grow
+
+- **YouTube**: [React To Next - YouTube Channel](https://youtube.com/@reacttonext)
+- **Blog**: [Read My Blog](http://reacttonext.com)
+- **Follow on Social Media**:
+  - **Facebook**: [ReactToNext on Facebook](http://facebook.com/ReactToNext)
+  - **Instagram**: [ReactToNext on Instagram](http://instagram.com/ReactToNext)
+
+---
+
+Feel free to reach out for any inquiries regarding training, internships, project collaborations, or mentorship. Let's build the future of web development together!
