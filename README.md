@@ -71,22 +71,19 @@ Looking for hands-on experience? Join my internship program or collaborate on re
 
 ---
 
-## 📊 GitHub Stats & Most Used Languages
-
-![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrikant9907&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikant9907&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 
 Stay connected and updated with my latest projects and offerings. 
 
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/shrikantdev/)
 - **Instagram**: [Follow on Instagram](https://www.instagram.com/shrikant99070/)
-- **Email**: [Email Me](mailto:shrikant9907@gmail.com)
-
+- **Blog**: [React To Next](https://reacttonext.com/)
+- **Dev.to**: [Follow on Dev.ito](https://dev.to/shrikant9907)
+- **Medium**: [Follow on Medium](https://medium.com/@shrikant9907)
+- **CodePen**: [Follow on CodePen](https://codepen.io/shrikantyadav)
+- **Facebook Page**: [Follow on Facebook](https://www.facebook.com/reacttonext/)
+- **WhatsApp**: [Follow on Whatsapp](https://whatsapp.com/channel/0029VaiDZudJP20vd6e48O3Q)
+ 
 ---
 
 ## 📚 Learn & Grow
@@ -98,5 +95,8 @@ Stay connected and updated with my latest projects and offerings.
   - **Instagram**: [ReactToNext on Instagram](http://instagram.com/ReactToNext)
 
 ---
+
+☕️ Buy Me a Coffee:
+**Instagram**: [ReactToNext on Instagram](https://buymeacoffee.com/shrikant9907)
 
 Feel free to reach out for any inquiries regarding training, internships, project collaborations, or mentorship. Let's build the future of web development together!
