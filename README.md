@@ -99,7 +99,4 @@ Crafting responsive and engaging websites designed to provide optimal user exper
 ---
 
 Feel free to reach out for training, internships, project collaborations, or mentorship. Let's build the future of web development together!
-
----
-
-**Keywords**: Shrikant Yadav, React To Next, Web Developer, Full Stack Developer, MERN Stack Developer, Frontend Developer, Node.js, Web Development Trainer, Narmadapuram (Hoshangabad), Shrimo.com.
+ 
