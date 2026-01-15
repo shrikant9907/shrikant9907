@@ -1,102 +1,71 @@
-# 👋 Welcome to My Profile
+# 👋 Hi, I’m Shrikant Yadav  
+**MERN Stack Developer | Web Solutions Architect | Trainer**
 
-## I'm Shrikant Yadav
+I build modern, scalable, and responsive web applications for **EduTech, Healthcare, Marketing, and Training** domains. With over 10 years of experience, I help businesses and startups leverage web technologies to deliver high-impact digital solutions. I also train students and professionals in MERN stack development, guiding them from fundamentals to advanced applications.
 
-### Empowering the Next Generation of Web Developers
-
-With over a decade of experience, I specialize in building dynamic, responsive, and scalable web applications. I offer comprehensive training, mentorship, and collaboration opportunities to help you succeed in the fast-paced world of web development. Whether you're a beginner or looking to advance your skills, I'm here to guide you every step of the way.
-
-Located in **Hoshangabad (Narmadapuram)**, I also offer services and training globally, providing high-quality web development solutions to businesses and individuals alike.
+Based in **Hoshangabad (Narmadapuram)**, I provide solutions and training globally.
 
 ---
 
-## 🔥 Areas of Expertise
+## 🚀 What I Do
 
-- **Full Stack Web Development**: Tailored solutions from frontend to backend using cutting-edge technologies like React JS, Node.js, MongoDB, and Next.js.
-  
-- **Frontend Development**:
-  - **Responsive Design**: User-friendly, visually appealing interfaces crafted with modern frameworks.
-  - **Technologies**: HTML, CSS, JavaScript, React JS, Tailwind CSS.
+I specialize in **full-stack web development** and delivering tailored solutions for:
 
-- **MERN Stack**: Build scalable and dynamic applications using MongoDB, Express.js, React, and Node.js.
-
-- **Next JS**: High-performance web applications that are SEO-friendly and built with modern development practices.
-
-- **Consultation & Mentorship**: Offering expert guidance to help you navigate your web development journey, whether you're a student or a professional.
+- **EduTech Platforms**: Online learning portals, e-learning apps, student dashboards, and learning management systems (LMS).  
+- **Healthcare Solutions**: Telemedicine portals, appointment systems, patient management apps, and health dashboards.  
+- **Marketing & Business**: Landing pages, lead generation platforms, CRM dashboards, and campaign management tools.  
+- **Training & Mentorship**: MERN stack courses, workshops, bootcamps, and hands-on coding sessions.  
 
 ---
 
-## 🎓 Training Programs & Courses
+## 🛠 Tech Stack
 
-At **[ReactToNext.com](https://reacttonext.com)**, I offer hands-on training programs to help you master the most in-demand skills in web development:
-
-### 1. **Frontend React JS Mastery (Basic to Advanced)**
-- **Technologies**: HTML, CSS, JavaScript, React JS, Tailwind CSS, Redux, Axios, React Router.
-- **[Enroll Now](https://shrimo.com/courses/web-development/frontend-react-js-mastery-basic-to-advanced)**
-
-### 2. **Full Stack Web Development (Basic to Advanced)**
-- **Technologies**: React JS, Node.js, Express.js, MongoDB, MySQL, API Integration.
-- **[Enroll Now](https://shrimo.com/courses/web-development/full-stack-web-dev-basic-to-advanced)**
-
-### 3. **Web Design (Basic to Advanced)**
-- **Skills**: Designing user-friendly and visually appealing websites using HTML, CSS, and modern design tools.
-- **[Enroll Now](https://shrimo.com/courses/web-development/web-design-basic-to-advanced)**
-
-### **Student Learning Portal**:  
-Access course materials, track your progress, and interact with instructors on the [Student Portal](https://shrimo.com/dashboard/student).
+- **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, Redux  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, MySQL  
+- **Other Tools**: Git, GitHub, REST APIs, Axios  
 
 ---
 
-## 💼 Services Offered by Shrimo.com
+## 🎓 Training Programs
 
-### **[Custom Web Application Development](https://shrimo.com/services/custom-web-application-development)**
-Tailored web solutions to meet your unique business needs, using modern technologies like React, Node.js, and MongoDB.
+I offer hands-on MERN stack training for students and professionals:
 
-### **[Mobile Application Development](https://shrimo.com/services/mobile-application-development)**
-Developing cross-platform mobile applications that offer seamless user experiences.
+### MERN Stack Full-Stack Web Development (Basic to Advanced)
+- Build complete applications from scratch using MongoDB, Express, React, Node.js  
+- Learn REST APIs, authentication, and deployment  
+👉 [Enroll Now](https://shrimo.com/courses/web-development/full-stack-web-dev-basic-to-advanced)
 
-### **[Web Design](https://shrimo.com/services/web-design)**
-Crafting responsive and engaging websites designed to provide optimal user experiences across all devices.
+### Frontend React JS Mastery
+- Responsive design, modern UI with React, Tailwind CSS, Redux, and React Router  
+👉 [Enroll Now](https://shrimo.com/courses/web-development/frontend-react-js-mastery-basic-to-advanced)
 
----
+### Web Design & UX
+- Designing visually appealing and user-friendly web applications  
+👉 [Enroll Now](https://shrimo.com/courses/web-development/web-design-basic-to-advanced)
 
-## 💼 Skills & Toolkit
-
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Next JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="HTML 5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS 3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass/Scss" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+**Student Portal**  
+👉 [Access Here](https://shrimo.com/dashboard/student)
 
 ---
 
-## 🌐 Connect with Me
+## 💼 Services Offered
 
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/shrikant9907/)
-- **Portfolio Link**: [Portfolio]([https://shrimo.com](https://shrikant9907.github.io/next-portfolio-live/))
-- **Company Website**: [Shrimo.com](https://shrimo.com)
-- **Blog**: [ReactToNext.com](https://reacttonext.com)
-- **YouTube Channel**: [React To Next - YouTube](https://youtube.com/@reacttonext)
-- **Dev.to**: [Follow on Dev.to](https://dev.to/shrikant9907)
-- **CodePen**: [Follow on CodePen](https://codepen.io/shrikantyadav)
+- **Custom Web Application Development**: Tailored solutions for EduTech, Healthcare, Marketing & Training  
+- **Mobile Application Development**: Cross-platform apps for businesses and learning platforms  
+- **Responsive Web Design**: Mobile-first and SEO-friendly interfaces  
+
+👉 [Learn More](https://shrimo.com/services)
 
 ---
 
-## 📚 Learn & Grow
+## 🌐 Connect With Me
 
-- **YouTube**: [React To Next - YouTube](https://youtube.com/@reacttonext)
-- **Blog**: [Read My Blog](http://reacttonext.com)
+- **Portfolio**: [View Portfolio](https://shrikant9907.github.io/next-portfolio-live/)  
+- **LinkedIn**: [Connect Here](https://www.linkedin.com/in/shrikant9907/)  
 
 ---
 
-Feel free to reach out for training, internships, project collaborations, or mentorship. Let's build the future of web development together!
- 
+📩 **Open for**: Freelance projects, web solutions, training, mentorship, and collaborations.
+
+Let’s build impactful web solutions together for education, healthcare, marketing, and beyond!
